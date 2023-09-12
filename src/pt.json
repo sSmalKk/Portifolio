@@ -1,0 +1,82 @@
+{
+  "meta": {
+    "title": "Gustavo Dantas Guimarães",
+    "description": "Eu sou Gustavo Dantas Guimarães, um tecnólogo e entusiasta de segurança cibernética."
+  },
+  "introdata": {
+    "title": "Oi, eu sou Gustavo Dantas Guimarães",
+    "animated": {
+      "first": "Tecnólogo",
+      "second": "Visionário",
+      "third": "Hacker Ético",
+      "fourth": "Programador",
+      "fifth": "Desenvolvedor de Malware",
+      "sixth": "Analista"
+    },
+    "description": "Entusiasta dedicado de tecnologia com uma curiosidade insaciável para desvendar as complexidades do nosso mundo digital."
+  },
+  "dataabout": {
+    "title": "Quem sou eu?",
+    "aboutme": "Eu sou Gustavo Dantas Guimarães, brasileiro, 24 anos (nascido em 21/12/1998), natural de Monte Alegre, MG. Endereço: QE 15 CJ N CASA 47 GUARA-DF Telefone: (61) 9.8159-4849 (61) 9.8195-5443 / E-mail: dantaswebdesign77@gmail.com Github: github.com/sSmalKk"
+  },
+  "worktimeline": [
+    {
+      "jobtitle": "Web Designer",
+      "where": "Espaço Multiplicidades",
+      "date": "2019/2023"
+    },
+    {
+      "jobtitle": "Estagiário, Secretário",
+      "where": "Auto Escola Defensiva",
+      "date": "2016/2017"
+    },
+    {
+      "jobtitle": "Designer Gráfico e Web Design",
+      "where": "Implante Giovani Centro (implantegiovanicentro.com.br)",
+      "date": "N/A"
+    }
+    ],
+  "skills": [
+    {
+      "name": "JavaScript",
+      "subskills": ["React.js", "Node.js"]
+    },
+    {
+      "name": "HTML"
+    },
+    {
+      "name": "CSS",
+      "subskills": ["Bootstrap 5"]
+    },
+    {
+      "name": "Python",
+      "subskills": ["Pandas"]
+    },
+    {
+      "name": "Git"
+    }
+  ],
+  "dataportfolio": [
+    {
+      "img": "https://picsum.photos/400/?grayscale",
+      "description": "A sabedoria da vida consiste na eliminação do supérfluo.",
+      "link": "#"
+    }
+  ],
+  "contactConfig": {
+    "YOUR_EMAIL": "dantaswebdesign77@gmail.com",
+    "description": "Aguardando ansiosamente seu contato!",
+    "YOUR_SERVICE_ID": "ID_DO_SERVIÇO",
+    "YOUR_TEMPLATE_ID": "ID_DO_TEMPLATE",
+    "YOUR_USER_ID": "ID_DO_USUÁRIO (CHAVE_PÚBLICA)"
+  },
+  "socialprofils": {
+    "github": "https://github.com/sSmalKk",
+    "linkedin": "https://linkedin.com/"
+  },
+  "logotext": "GDG",
+  "titles":{
+    "worktimeline": "Experiência Profissional",
+    "skills": "Habilidades"
+  }
+}
