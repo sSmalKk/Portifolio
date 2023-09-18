@@ -15,7 +15,7 @@
     font-size: 16px;
     font-weight: 700;
     margin: 15px 0 20px;
-    font-family: 'Roboto', sans-serif;
+    font-family: 'Montserrat', sans-serif;
 }
 
 @-webkit-keyframes animate-positive {
@@ -85,7 +85,7 @@
     text-align: center;
     font-size: 14px;
     font-weight: 700;
-    font-family: 'Roboto', sans-serif;
+    font-family: 'Montserrat', sans-serif;
 }
   .skill-card:hover {
     transform: translateY(-5px);
@@ -96,7 +96,7 @@
     text-align: center;
     font-size: 16px;
     font-weight: 700;
-    font-family: 'Roboto', sans-serif;
+    font-family: 'Montserrat', sans-serif;
     flex: 1; /* Allow the font size to shrink if needed */
     display: flex;
     align-items: center;

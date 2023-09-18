@@ -6,6 +6,9 @@
     --text-color-2: #fff;
     --text-color-3: rgb(204, 0, 0);
     --overlay-color: rgb(12 12 12 / 63%);
+    --yellow-primary-color:#F4B400;
+    --blue-primary-color: #4285F4;
+    --red-primary-color: #DB4437;
 }
 
 [data-theme="light"] {
@@ -16,6 +19,11 @@
     --text-color-2: #000;
     --text-color-3: rgb(204, 0, 0);
     --overlay-color: rgb(255 255 255 / 70%);
+    --yellow-primary-color: #FFD300; /* Amarelo neon */
+    --blue-primary-color: #00E5FF; /* Azul neon */
+    --red-primary-color: #FF007D; /* Vermelho neon */    
+    
+    
 }
 
 html,
@@ -30,7 +38,7 @@ body {
     overflow-y: visible;
     background-color: var(--bg-color);
     color: var(--text-color);
-    font-family: 'Roboto', sans-serif;
+    font-family: 'Montserrat', sans-serif;
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
     padding-top: 60px;
@@ -48,7 +56,7 @@ h3,
 h4,
 h5,
 h6 {
-    font-family: 'Roboto', sans-serif;
+    font-family: 'Montserrat', sans-serif;
 }
 
 a,

@@ -4,7 +4,7 @@
     "description": "I'm Gustavo Dantas Guimarães, a technologist and cybersecurity enthusiast."
   },
   "introdata": {
-    "title": "Hi, I'm Gustavo Dantas Guimarães",
+    "title": "Hi, I'm Gustavo Dantas",
     "animated": {
       "first": "JavaScript Developer",
       "second": "Visionary",
@@ -17,7 +17,7 @@
   },
   "dataabout": {
     "title": "Who am I?",
-    "aboutme": "I'm Gustavo Dantas Guimarães, a Brazilian, 24 years old (born on 12/21/1998), originally from Monte Alegre, MG. Address: QE 15 CJ N HOUSE 47 GUARA-DF Phone: (61) 9.8159-4849 (61) 9.8195-5443 / Email: dantaswebdesign77@gmail.com Github: github.com/sSmalKk"
+    "aboutme": "I'm Gustavo Dantas, a Brazilian, 24 years old (born on 12/21/1998), originally from Monte Alegre, MG. Address: QE 15 CJ N HOUSE 47 GUARA-DF Phone: (61) 9.8159-4849 (61) 9.8195-5443 / Email: dantaswebdesign77@gmail.com Github: github.com/sSmalKk"
   },
   "worktimeline": [
     {
@@ -67,9 +67,9 @@
   "contactConfig": {
     "YOUR_EMAIL": "dantaswebdesign77@gmail.com",
     "description": "Looking forward to hearing from you!",
-    "YOUR_SERVICE_ID": "SERVICE_ID",
-    "YOUR_TEMPLATE_ID": "TEMPLATE_ID",
-    "YOUR_USER_ID": "USER_ID (PUBLIC_KEY)"
+    "YOUR_SERVICE_ID": "service_zvk6nej",
+    "YOUR_TEMPLATE_ID": "template_f0almbs",
+    "YOUR_USER_ID": "ZPy784p27Vvhgh-qv"
   },
   "socialprofils": {
     "github": "https://github.com/sSmalKk",

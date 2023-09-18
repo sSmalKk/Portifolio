@@ -4,7 +4,7 @@
     "description": "Eu sou Gustavo Dantas Guimarães, um tecnólogo e entusiasta de segurança cibernética."
   },
   "introdata": {
-    "title": "Oi, eu sou Gustavo Dantas Guimarães",
+    "title": "Oi, eu sou Gustavo Dantas",
     "animated": {
       "first": "Desenvolvedor JavaScript",
       "second": "Visionário",
@@ -13,12 +13,11 @@
       "fifth": "Desenvolvedor Fullstack",
       "sixth": "Analista"
     },
-    "imgurl":"https://www.behance.net/gallery/180299107/AutoRetrato/modules/1018477627",
     "description": "Entusiasta dedicado de tecnologia com uma curiosidade insaciável para desvendar as complexidades do nosso mundo digital."
   },
   "dataabout": {
     "title": "Quem sou eu?",
-    "aboutme": "Eu sou Gustavo Dantas Guimarães, brasileiro, 24 anos (nascido em 21/12/1998), natural de Monte Alegre, MG. Endereço: QE 15 CJ N CASA 47 GUARA-DF Telefone: (61) 9.8159-4849 (61) 9.8195-5443 / E-mail: dantaswebdesign77@gmail.com Github: github.com/sSmalKk"
+    "aboutme": "Eu sou Gustavo Dantas, brasileiro, 24 anos (nascido em 21/12/1998), natural de Monte Alegre, MG. Endereço: QE 15 CJ N CASA 47 GUARA-DF Telefone: (61) 9.8159-4849 (61) 9.8195-5443 / E-mail: dantaswebdesign77@gmail.com Github: github.com/sSmalKk"
   },
   "worktimeline": [
     {
@@ -67,9 +66,9 @@
   "contactConfig": {
     "YOUR_EMAIL": "dantaswebdesign77@gmail.com",
     "description": "Aguardando ansiosamente seu contato!",
-    "YOUR_SERVICE_ID": "ID_DO_SERVIÇO",
-    "YOUR_TEMPLATE_ID": "ID_DO_TEMPLATE",
-    "YOUR_USER_ID": "ID_DO_USUÁRIO (CHAVE_PÚBLICA)"
+    "YOUR_SERVICE_ID": "service_zvk6nej",
+    "YOUR_TEMPLATE_ID": "template_f0almbs",
+    "YOUR_USER_ID": "ZPy784p27Vvhgh-qv"
   },
   "socialprofils": {
     "github": "https://github.com/sSmalKk",
