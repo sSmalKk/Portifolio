@@ -58,9 +58,13 @@
   ],
   "dataportfolio": [
     {
-      "img": "https://www.behance.net/gallery/180299107/AutoRetrato/modules/1018477627",
-      "description": "A sabedoria da vida consiste na eliminação do supérfluo.",
-      "link": "#"
+      "img": "https://screenshot-proxy.netlify.app/f_avif,fit_cover,s_204x128/https://d33wubrfki0l68.cloudfront.net/64cabe85c01d2e0008773bf2/screenshot_2023-08-02-20-38-38-0000.png",
+      "description": "Um projeto em andamento: Sandboxpedia, a enciclopédia jogável construída com React.",
+      "link": "https://github.com/sSmalKk/Sandboxpedia"
+    },    {
+      "img": "https://screenshot-proxy.netlify.app/f_avif,fit_cover,s_204x128/https://d33wubrfki0l68.cloudfront.net/64cabe85c01d2e0008773bf2/screenshot_2023-08-02-20-38-38-0000.png",
+      "description": "Um projeto em andamento: Sandboxpedia, a enciclopédia jogável construída com React.",
+      "link": "https://github.com/sSmalKk/Sandboxpedia"
     }
   ],
   "contactConfig": {
@@ -72,11 +76,30 @@
   },
   "socialprofils": {
     "github": "https://github.com/sSmalKk",
-    "linkedin": "https://linkedin.com/"
+    "linkedin": "https://linkedin.com/in/gustavodantasdev/"
   },
   "logotext": "GDG",
   "titles":{
     "worktimeline": "Experiência Profissional",
     "skills": "Habilidades"
-  }
+  },  
+  "translate": {
+    "projects": "Projetos",
+    "aboutme": "Sobre Mim",
+    "contactme": "Contate-me",
+    "follow": "Siga-me",
+    "portifolio": "Portfólio",
+    "contact": "Contato",
+    "about": "Sobre",
+    "view": "Ver projeto",
+    "contactSuccess": "Mensagem enviada com sucesso! Aguardando sua resposta.",
+    "contactFailed": "Falha ao enviar a mensagem, por favor, tente novamente mais tarde.",
+    "getInTouch": "Entre em contato",
+    "namePlaceholder": "Nome",
+    "emailPlaceholder": "Email",
+    "messagePlaceholder": "Mensagem",
+    "sending": "Enviando...",
+    "send": "Enviar"
+}
+
 }

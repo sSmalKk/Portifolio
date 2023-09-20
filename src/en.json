@@ -54,14 +54,13 @@
     },
     {
       "name": "Git"
-    },
-    {"title": "skills"}
+    }
   ],
   "dataportfolio": [
     {
-      "img": "https://www.behance.net/gallery/180299107/AutoRetrato/modules/1018477627",
-      "description": "The wisdom of life consists in the elimination of non-essentials.",
-      "link": "#"
+      "img": "https://screenshot-proxy.netlify.app/f_avif,fit_cover,s_204x128/https://d33wubrfki0l68.cloudfront.net/64cabe85c01d2e0008773bf2/screenshot_2023-08-02-20-38-38-0000.png",
+      "description": "A work-in-progress project: Sandboxpedia, the playable encyclopedia built with React.",
+      "link": "https://github.com/sSmalKk/Sandboxpedia"
     }
   ],
   "contactConfig": {
@@ -73,11 +72,30 @@
   },
   "socialprofils": {
     "github": "https://github.com/sSmalKk",
-    "linkedin": "https://linkedin.com/"
+    "linkedin": "https://linkedin.com/in/gustavodantasdev/"
   },
   "logotext": "GDG",
   "titles":{
     "worktimeline": "Worktime Line",
     "skills": "Skills"
-  }
+  },
+  "translate": {
+    "projects": "Projects",
+    "aboutme": "About Me",
+    "contactme": "Contact Me",
+    "follow": "Follow Me",
+    "portifolio": "Portfolio",
+    "contact": "Contact",
+    "about": "About",
+    "view": "View Project",
+    "contactSuccess": "Message sent successfully! Looking forward to your response.",
+    "contactFailed": "Failed to send the message, please try again later.",
+    "getInTouch": "Get in Touch",
+    "namePlaceholder": "Name",
+    "emailPlaceholder": "Email",
+    "messagePlaceholder": "Message",
+    "sending": "Sending...",
+    "send": "Send"
+}
+
 }

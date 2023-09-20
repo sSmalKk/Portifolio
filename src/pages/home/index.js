@@ -2,7 +2,7 @@ import React from "react";
 import "./style.css";
 import { Helmet, HelmetProvider } from "react-helmet-async";
 import Typewriter from "typewriter-effect";
-import { introdata, meta } from "../../content_option";
+import { introdata, meta,translate } from "../../content_option";
 import { Link } from "react-router-dom";
 
 export const Home = () => {
@@ -15,10 +15,10 @@ export const Home = () => {
           <meta name="description" content={meta.description} />
         </Helmet>
         <div className="intro_sec d-block d-lg-flex align-items-center ">
-        <div
-  className="h_bg-image order-1 order-lg-2 h-100"
-  style={{ backgroundImage: `url('../../img/char.png')` }}
-></div>
+          <div
+            className="h_bg-image order-1 order-lg-2 h-100"
+            style={{ backgroundImage: `url('../../img/char.png')` }}
+          ></div>
 
           <div className="text order-2 order-lg-1 h-100 d-lg-flex justify-content-center">
             <div className="align-self-center ">
@@ -45,7 +45,7 @@ export const Home = () => {
                 <div className="intro_btn-action pb-5">
                   <Link to="/portfolio" className="text_2">
                     <div id="button_h" className="ac_btn btn ">
-                      Projects
+                      {translate.projects} {/* Alteração aqui */}
                       <div className="ring one"></div>
                       <div className="ring two"></div>
                       <div className="ring three"></div>
@@ -53,7 +53,7 @@ export const Home = () => {
                   </Link>
                   <Link to="/about">
                     <div id="button_h" className="ac_btn btn">
-                      About Me
+                      {translate.aboutme} {/* Alteração aqui */}
                       <div className="ring one"></div>
                       <div className="ring two"></div>
                       <div className="ring three"></div>
@@ -61,7 +61,7 @@ export const Home = () => {
                   </Link>
                   <Link to="/contact">
                     <div id="button_h" className="ac_btn btn">
-                      Contact Me
+                      {translate.contactme} {/* Alteração aqui */}
                       <div className="ring one"></div>
                       <div className="ring two"></div>
                       <div className="ring three"></div>

@@ -20,7 +20,7 @@ const Headermain = () => {
       <header className="fixed-top site__header">
         <div className="d-flex align-items-center justify-content-between">
           <Link  className="navbar-brand nav_ac" to="/">
-            {logotext}
+          <img src="img/logo (1).png" style={{ maxWidth: '20vh',zIndex: '99' }} alt="Logo" />
           </Link>
           <div className="d-flex align-items-center">
           <Languagetoggle />
