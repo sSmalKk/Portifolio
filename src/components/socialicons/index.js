@@ -8,7 +8,7 @@ import {
   FaYoutube,
   FaTwitch,
 } from "react-icons/fa";
-import { socialprofils } from "../../content_option";
+import { socialprofils, translate } from "../../content_option";
 
 export const Socialicons = (params) => {
   return (
@@ -57,7 +57,7 @@ export const Socialicons = (params) => {
           </li>
         )}
       </ul>
-      <p>Follow Me</p>
+      <p>{translate.follow}</p>
     </div>
   );
 };

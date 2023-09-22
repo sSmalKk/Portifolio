@@ -59,8 +59,18 @@
   "dataportfolio": [
     {
       "img": "https://screenshot-proxy.netlify.app/f_avif,fit_cover,s_204x128/https://d33wubrfki0l68.cloudfront.net/64cabe85c01d2e0008773bf2/screenshot_2023-08-02-20-38-38-0000.png",
-      "description": "A work-in-progress project: Sandboxpedia, the playable encyclopedia built with React.",
+      "description": "An ongoing project: Sandboxpedia, the playable encyclopedia built with React.",
       "link": "https://github.com/sSmalKk/Sandboxpedia"
+    },
+    {
+      "img": "https://i.ibb.co/yBpdnNt/image.png",
+      "description": "An ongoing project: This same portfolio built with React.",
+      "link": "https://github.com/sSmalKk/Portfolio"
+    },
+    {
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png",
+      "description": "An ongoing project: JavaScript challenges from FreeCodeCamp.",
+      "link": "https://github.com/sSmalKk/javascript-freecodecamp"
     }
   ],
   "contactConfig": {
