@@ -2,10 +2,10 @@ import React, { useState } from "react";
 import "./style.css";
 import { VscGrabber, VscClose } from "react-icons/vsc";
 import { Link } from "react-router-dom";
-import { logotext ,socialprofils } from "../content_option";
+import { logotext ,socialprofils } from "../language/content_option";
 import Themetoggle from "../components/themetoggle";
 import Languagetoggle from "../components/languagetoggle";
-import {translate} from "../content_option";
+import {translate} from "../language/content_option";
 
 const Headermain = () => {
   const [isActive, setActive] = useState("false");

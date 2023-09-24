@@ -2,7 +2,7 @@ import React, { useState } from "react";
 import * as emailjs from "emailjs-com";
 import "./style.css";
 import { Helmet, HelmetProvider } from "react-helmet-async";
-import { meta, translate, contactConfig } from "../../content_option";
+import { meta, translate, contactConfig } from "../../language/content_option";
 import { Container, Row, Col, Alert } from "react-bootstrap";
 
 export const ContactUs = () => {

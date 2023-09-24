@@ -1,8 +1,7 @@
 import React from "react";
 import "./style.css";
 import { Helmet, HelmetProvider } from "react-helmet-async";
-import Typewriter from "typewriter-effect";
-import { introdata, meta,translate } from "../../content_option";
+import { introdata, meta,translate } from "../../language/content_option";
 import { Link } from "react-router-dom";
 
 export const Home = () => {
@@ -23,24 +22,8 @@ export const Home = () => {
           <div className="text order-2 order-lg-1 h-100 d-lg-flex justify-content-center">
             <div className="align-self-center ">
               <div className="intro mx-auto">
-                <h2 className="mb-1x">{introdata.title}</h2>
-                <h1 className="fluidz-48 mb-1x typewriter-text">
-                  <Typewriter
-                    options={{
-                      strings: [
-                        introdata.animated.first,
-                        introdata.animated.second,
-                        introdata.animated.third,
-                        introdata.animated.fourth,
-                        introdata.animated.fifth,
-                        introdata.animated.sixth,
-                      ],
-                      autoStart: true,
-                      loop: true,
-                      deleteSpeed: 10,
-                    }}
-                  />
-                </h1>
+              <h1 className="fluidz-48 mb-1x typewriter-text">{introdata.title}</h1>
+                
                 <p className="mb-1x">{introdata.description}</p>
                 <div className="intro_btn-action pb-5">
                   <Link to="/portfolio" className="text_2">

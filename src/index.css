@@ -9,6 +9,8 @@
     --yellow-primary-color:#F4B400;
     --blue-primary-color: #4285F4;
     --red-primary-color: #DB4437;
+    --variable-collection-asd: rgba(144, 19, 254, 1);
+
 }
 
 [data-theme="light"] {
@@ -69,7 +71,7 @@ p {
     hyphens: auto;
 }
 
-.ovhidden {
+.hidden {
     overflow: hidden;
 }
 

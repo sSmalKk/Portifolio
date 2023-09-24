@@ -2,7 +2,7 @@ import React from "react";
 import "./style.css";
 import { Helmet, HelmetProvider } from "react-helmet-async";
 import { Container, Row, Col } from "react-bootstrap";
-import { dataportfolio, meta, translate } from "../../content_option";
+import { dataportfolio, meta, translate } from "../../language/content_option";
 
 export const Portfolio = () => {
   return (
