@@ -1,7 +1,7 @@
 {
   "meta": {
     "title": "Gustavo Dantas Guimarães",
-    "description": "Eu sou Gustavo Dantas Guimarães, um tecnólogo e entusiasta de segurança cibernética."
+    "description": "Eu sou Gustavo Dantas Guimarães, um tecnólogo e entusiasta de desenvolvimento fullstack."
   },
   "introdata": {
     "title": "Oi, eu sou Gustavo Dantas",
@@ -37,8 +37,8 @@
     }
     ,
     {
-      "jobtitle": "Estagiário, Suporte tecnico N&N ACESSORIA BANCARIA",
-      "where": "Implante Giovani Centro (implantegiovanicentro.com.br)",
+      "jobtitle": "Estagiário, Suporte tecnico",
+      "where": " N&N ACESSORIA BANCARIA",
       "date": "N/A"
     }
     ],
@@ -74,9 +74,14 @@
     }
     ,      {
       "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png",
-      "description": "Um projeto em andamento: JavaScript challenges from FreeCodeCamp.",
+      "description": "Uma certificação em andamento: JavaScript challenges from FreeCodeCamp.",
       "link": "https://github.com/sSmalKk/javascript-freecodecamp"
-    }    
+    }  
+    ,      {
+      "img": "https://implantegiovanicentro.com.br/wp-content/uploads/2021/08/hq720.png",
+      "description": "Um website do trabalhei no desenvolvimento: https://implantegiovanicentro.com.br",
+      "link": "https://implantegiovanicentro.com.br"
+    }      
   ],
   "contactConfig": {
     "YOUR_EMAIL": "dantaswebdesign77@gmail.com",

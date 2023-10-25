@@ -1,7 +1,7 @@
 {
   "meta": {
     "title": "Gustavo Dantas Guimarães",
-    "description": "I am Gustavo Dantas Guimarães, a technologist and cybersecurity enthusiast."
+    "description": "I'm Gustavo Dantas Guimarães, a technologist and fullstack enthusiast."
   },
   "introdata": {
     "title": "Hi, I'm Gustavo Dantas",
@@ -17,11 +17,11 @@
   },
   "dataabout": {
     "title": "Who am I?",
-    "aboutme": "I'm Gustavo Dantas, Brazilian, 24 years old (born on 12/21/1998), born in Monte Alegre, MG. Address: QE 15 CJ N HOUSE 47 GUARA-DF Phone: (61) 9.8159-4849 (61) 9.8195-5443 / Email: dantaswebdesign77@gmail.com Github: github.com/sSmalKk"
+    "aboutme": "I am Gustavo Dantas, a 24-year-old Brazilian (born on 12/21/1998), originally from Monte Alegre, MG. Address: QE 15 CJ N HOUSE 47 GUARA-DF Phone: (61) 9.8159-4849 (61) 9.8195-5443 / Email: dantaswebdesign77@gmail.com Github: github.com/sSmalKk"
   },
   "worktimeline": [
     {
-      "jobtitle": "Web Design Partner",
+      "jobtitle": "Partner Web Designer",
       "where": "Espaço Multiplicidades",
       "date": "2019/2023"
     },
@@ -31,13 +31,13 @@
       "date": "2016/2017"
     },
     {
-      "jobtitle": "Graphic Designer and Web Design",
+      "jobtitle": "Graphic Designer and Web Designer",
       "where": "Implante Giovani Centro (implantegiovanicentro.com.br)",
       "date": "N/A"
     },
     {
-      "jobtitle": "Intern, Technical Support, N&N ACESSORIA BANCARIA",
-      "where": "Implante Giovani Centro (implantegiovanicentro.com.br)",
+      "jobtitle": "Intern, Technical Support at N&N ACESSORIA BANCARIA",
+      "where": "N&N ACESSORIA BANCARIA",
       "date": "N/A"
     }
   ],
@@ -74,8 +74,13 @@
     },
     {
       "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png",
-      "description": "An ongoing project: JavaScript challenges from FreeCodeCamp.",
+      "description": "An ongoing certification: JavaScript challenges from FreeCodeCamp.",
       "link": "https://github.com/sSmalKk/javascript-freecodecamp"
+    },
+    {
+      "img": "https://implantegiovanicentro.com.br/wp-content/uploads/2021/08/hq720.png",
+      "description": "A website I worked on: https://implantegiovanicentro.com.br",
+      "link": "https://implantegiovanicentro.com.br"
     }
   ],
   "contactConfig": {
@@ -85,7 +90,7 @@
     "YOUR_TEMPLATE_ID": "template_f0almbs",
     "YOUR_USER_ID": "ZPy784p27Vvhgh-qv"
   },
-  "socialprofiles": {
+  "socialprofils": {
     "github": "https://github.com/sSmalKk",
     "linkedin": "https://linkedin.com/in/gustavodantasdev/"
   },
@@ -99,10 +104,10 @@
     "aboutme": "About Me",
     "contactme": "Contact Me",
     "follow": "Follow Me",
-    "portfolio": "Portfolio",
+    "portifolio": "Portfolio",
     "contact": "Contact",
     "about": "About",
-    "view": "View Project",
+    "view": "View project",
     "contactSuccess": "Message sent successfully! Waiting for your response.",
     "contactFailed": "Failed to send the message, please try again later.",
     "getInTouch": "Get in Touch",
