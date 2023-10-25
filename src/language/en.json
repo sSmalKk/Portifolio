@@ -1,7 +1,7 @@
 {
   "meta": {
     "title": "Gustavo Dantas Guimarães",
-    "description": "I'm Gustavo Dantas Guimarães, a technologist and cybersecurity enthusiast."
+    "description": "I am Gustavo Dantas Guimarães, a technologist and cybersecurity enthusiast."
   },
   "introdata": {
     "title": "Hi, I'm Gustavo Dantas",
@@ -12,16 +12,16 @@
       "fourth": "Programmer",
       "fifth": "Fullstack Developer",
       "sixth": "Analyst"
-        },
-    "description": "Dedicated technology enthusiast with an insatiable curiosity for unraveling the complexities of our digital world."
+    },
+    "description": "Dedicated technology enthusiast with an insatiable curiosity to unravel the complexities of our digital world."
   },
   "dataabout": {
     "title": "Who am I?",
-    "aboutme": "I'm Gustavo Dantas, a Brazilian, 24 years old (born on 12/21/1998), originally from Monte Alegre, MG. Address: QE 15 CJ N HOUSE 47 GUARA-DF Phone: (61) 9.8159-4849 (61) 9.8195-5443 / Email: dantaswebdesign77@gmail.com Github: github.com/sSmalKk"
+    "aboutme": "I'm Gustavo Dantas, Brazilian, 24 years old (born on 12/21/1998), born in Monte Alegre, MG. Address: QE 15 CJ N HOUSE 47 GUARA-DF Phone: (61) 9.8159-4849 (61) 9.8195-5443 / Email: dantaswebdesign77@gmail.com Github: github.com/sSmalKk"
   },
   "worktimeline": [
     {
-      "jobtitle": "Web Designer",
+      "jobtitle": "Web Design Partner",
       "where": "Espaço Multiplicidades",
       "date": "2019/2023"
     },
@@ -31,7 +31,12 @@
       "date": "2016/2017"
     },
     {
-      "jobtitle": "Graphic and Web Designer",
+      "jobtitle": "Graphic Designer and Web Design",
+      "where": "Implante Giovani Centro (implantegiovanicentro.com.br)",
+      "date": "N/A"
+    },
+    {
+      "jobtitle": "Intern, Technical Support, N&N ACESSORIA BANCARIA",
       "where": "Implante Giovani Centro (implantegiovanicentro.com.br)",
       "date": "N/A"
     }
@@ -64,8 +69,8 @@
     },
     {
       "img": "https://i.ibb.co/yBpdnNt/image.png",
-      "description": "An ongoing project: This same portfolio built with React.",
-      "link": "https://github.com/sSmalKk/Portfolio"
+      "description": "An ongoing project: This very portfolio made in React.",
+      "link": "https://github.com/sSmalKk/Portifolio"
     },
     {
       "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png",
@@ -75,18 +80,18 @@
   ],
   "contactConfig": {
     "YOUR_EMAIL": "dantaswebdesign77@gmail.com",
-    "description": "Looking forward to hearing from you!",
+    "description": "Looking forward to your contact!",
     "YOUR_SERVICE_ID": "service_zvk6nej",
     "YOUR_TEMPLATE_ID": "template_f0almbs",
     "YOUR_USER_ID": "ZPy784p27Vvhgh-qv"
   },
-  "socialprofils": {
+  "socialprofiles": {
     "github": "https://github.com/sSmalKk",
     "linkedin": "https://linkedin.com/in/gustavodantasdev/"
   },
   "logotext": "GDG",
-  "titles":{
-    "worktimeline": "Worktime Line",
+  "titles": {
+    "worktimeline": "Professional Experience",
     "skills": "Skills"
   },
   "translate": {
@@ -94,11 +99,11 @@
     "aboutme": "About Me",
     "contactme": "Contact Me",
     "follow": "Follow Me",
-    "portifolio": "Portfolio",
+    "portfolio": "Portfolio",
     "contact": "Contact",
     "about": "About",
     "view": "View Project",
-    "contactSuccess": "Message sent successfully! Looking forward to your response.",
+    "contactSuccess": "Message sent successfully! Waiting for your response.",
     "contactFailed": "Failed to send the message, please try again later.",
     "getInTouch": "Get in Touch",
     "namePlaceholder": "Name",
@@ -106,6 +111,5 @@
     "messagePlaceholder": "Message",
     "sending": "Sending...",
     "send": "Send"
-}
-
+  }
 }
